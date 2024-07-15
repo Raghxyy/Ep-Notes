@@ -1,4 +1,4 @@
-t# Enterprise Programming
+# Enterprise Programming
 
 - **Pre-requisites:** HTML, CSS, JS, XML, Bootstrap
 - **Outcome:**
